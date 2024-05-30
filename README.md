@@ -1,6 +1,6 @@
 Abstract:
-The model automatically generates a variety of contextually relevant recipes by utilizing machine learning and deep learning approaches. By utilizing a neural network thathas been trained, the model is able to identify complex patterns and relationships found in large recipe datasets. 
-This enables the model to generate new and coherent recipes based on input criteria(image), aiding in the automated process of recipe generation. The model also provides information about allergens and suggests alternatives to allergens.
+The model automatically generates a variety of contextually relevant recipes by utlizing machine learning and deep learning approaches. By utilizing a neural network thathas been trained, the model is able to identify complex patterns and relationships found in large recipe datasets. 
+This enables the model to generate new and coherent recipes based on input criteria(image), aiding in the automated process of recipe generation. The model also provides information about allergens and suggests alternatives to allergens.
 
 Statement of the problem:
 The challenge at hand is that conventional meal planning techniques often come up short in addressing the myriad of nutritional needs and preferences that individuals possess. Generic meal plans fail to consider important factors such as dietary limitations,
