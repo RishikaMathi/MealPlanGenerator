@@ -1,0 +1,23 @@
+Title
+
+Abstract
+
+Introduction and statement of the problem
+
+review of literature
+
+Objective of the study
+
+Data collection(given the links to files))
+
+Exploratotry data analysis(EDA) and Hypotheses for the study
+
+
+Data analytics
+
+Data visualization and result report
+
+conclusion
+
+bibliography
+
